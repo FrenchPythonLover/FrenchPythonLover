@@ -4,14 +4,15 @@ I'm FrenchPythonLover, A 11yrs old French *poo*grammer.
 - Python
 - C
 - Html/css/js
-- And sometimes Java<br
-I also have interest in electronics<br
-I own a ESP32 with a breadboard, some IC's, and...Well electronics stuff!<br
+- And sometimes Java<br>
+
+#### I also have interest in electronics<br>
+I own a ESP32 with a breadboard, some IC's, and...Well electronics stuff!<br>
 ### PC Specs
 Asus K73SV
 - 6GB ram
 - GeForce 540
 - Intel i5-2520
 - 1600x900
-Anyways i've got a poor pc...**That can run Doom, so why not !**
+Anyways i've got a poor pc...**That can run Doom, so why not !**<br>
 I 've got Windows 10 and Debian 12.
