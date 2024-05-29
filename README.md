@@ -13,6 +13,6 @@ Asus K73SV
 - 6GB ram
 - GeForce 540
 - Intel i5-2520
-- 1600x900
+- 1600x900 17.3" Monitor<br>
 Anyways i've got a poor pc...**That can run Doom, so why not !**<br>
 I 've got Windows 10 and Debian 12.
