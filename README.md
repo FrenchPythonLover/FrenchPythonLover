@@ -5,8 +5,7 @@ I'm FrenchPythonLover, A 11yrs old French *poo*grammer.
 - C
 - Html/css/js
 - And sometimes Java<br>
-<br>
-### I also have interest in electronics<br>
+### I also have interest in electronics
 I own a ESP32 with a breadboard, some IC's, and...Well electronics stuff!<br>
 ### PC Specs
 Asus K73SV
