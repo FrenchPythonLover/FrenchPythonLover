@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm FrenchPythonLover, A 11yrs old French *poo*grammer.
+I'm FrenchPythonLover, A 12yrs old French *poo*grammer.
 #### I like coding in..
 - Python
 - C
