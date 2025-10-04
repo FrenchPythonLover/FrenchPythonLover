@@ -6,9 +6,8 @@ I'm FrenchPythonLover, A 12yrs old French *poo*grammer.
 - Html/css/js
 - And sometimes Java<br>
 ### I also have interest in electronics
-I own a ESP32 with a breadboard, some IC's, and...Well electronics stuff!<br>
+I own two ESP32s with a breadboard, some IC's, and...Well electronics stuff!<br>
 ### PC Specs
-Asus K73SV
 - 4GB ram
 - GeForce 930MX
 - 1600x900 17.3" Monitor<br>
