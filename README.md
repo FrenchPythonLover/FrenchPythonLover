@@ -1,5 +1,5 @@
 # 👋 FrenchPythonLover  
-### `13 y/o Embedded Linux & Hardware Hacker`
+### `13 y/o French Embedded Linux & Hardware Hacker`
 
 <div align="center">
   
@@ -12,30 +12,29 @@
 
 ## 🧠 About Me
 
-I'm **FrenchPythonLover**, a 13-year-old programmer and hardware tinkerer who spends his free time:  
+I'm **FrenchPythonLover**, a 13-year-old programmer and hardware tinkerer who loves:  
 - hacking electronics  
 - writing kernels  
 - reverse engineering hardware  
-- and breaking things just to fix them again 😄  
+- breaking things just to fix them again 😄  
 
 I code in:  
 **Python (main), C, C++, JavaScript, Bash, Assembly (x86, Z80), Java (a bit)**  
-I also love **kernel development**, **bare-metal**, **microcontrollers**, and **firmware analysis**.
+and I enjoy **kernel dev**, **bare-metal**, **microcontrollers**, and **firmware analysis**.
 
 ---
 
-## 🔧 Hardware I Own
+## 🔧 Hardware I Own (with room for achievements)
 
-- **2× ESP32**
-- **Raspberry Pi 5 (2 GB)**
-- **Quansheng UV-K5**
-- **NooElec NESDR Smart V5 (RTL-SDR)**
-- **TI-84 Plus**
-- **TI-Nspire CX**
-- **ASUS All-in-One (Crappy Edition™)**  
-  - 4 GB RAM  
-  - Intel i3-6006U @ **2.7 GHz OC** (2.0 GHz stock)  
-  - **Tri-Boot:** Windows • Debian 12 • Arch Linux  
+| Device | Specs / Notes | Biggest Thing I Built or Did On It |
+|-------|----------------|-------------------------------------|
+| ⚙️ **ESP32 ×2** | C++ / FreeRTOS / WiFi / BLE | 🏦 Banking system |
+| 🍓 **Raspberry Pi 5 (2 GB)** | Linux lab machine | 🏠 Home Assistant Smart Home |
+| 📡 **Quansheng UV-K5** | Fully hackable radio | 🧵 Written my own OS in pure C |
+| 📻 **NooElec NESDR Smart V5 (RTL-SDR)** | SDR receiver | 🛰️ Decoding DMR signals with DSDPlus |
+| 📟 **TI-84 Plus** | Z80 assembly playground | ✏️ z80 asm pong minigame |
+| 📱 **TI-Nspire CX** | Linux-compatible | 🐧 Installed custom Arch Linux ARM with GUI |
+| 🖥️ **ASUS All-in-One (“Crappy Edition™”)** | 4GB RAM • i3-6006U @ 2.7GHz OC • Tri-Boot | 🔧 Made all my projects using that.. |
 
 ---
 
@@ -44,32 +43,32 @@ I also love **kernel development**, **bare-metal**, **microcontrollers**, and **
 ### 🔩 Low-Level & Embedded
 - Linux kernel tinkering  
 - Building Linux distros from scratch  
-- Reverse-engineering firmwares & binaries  
+- Reverse engineering firmwares & binaries  
 - Dumping / flashing / patching ROMs  
-- MCU programming (ESP32, ARM, PIC, etc.)
+- Writing drivers & microcontroller firmware
 
 ### 📡 Radio & RF
 - Ham radio enthusiast  
 - RTL-SDR experiments  
-- Signal decoding & RF exploration
+- Signal decoding & airwave exploration
 
 ### 💻 Programming
 - Python, C, C++, JS, Bash  
 - x86 & Z80 Assembly  
-- Web (HTML/CSS/JS)
+- HTML / CSS / JavaScript
 
 ---
 
-## 🚀 Cool Projects & Achievements
+## 🚀 Notable Projects & Achievements
 
-- 🧒 **Built my first website at *7 years old***  
-- 🏗️ **Created my own Linux distro** (kernel, busybox, bash… fully compiled manually)  
-- 🐍 Built a **Python-based OS** (SDK coming soon)  
-- 🔓 **Hacked a digital photo frame** to run custom ELF code via UART  
-- 🏦 Coded a **banking system simulation** (C++ + Python + ESP32 + RC522 RFID)  
-- 🔬 Reverse engineered multiple embedded devices (phones, photo frames, radios, etc.)  
-- 🛡️ **Participated in the CyberCup (cybersecurity tournament)**  
-- 🔌 Wrote low-level drivers and hardware experiments just for fun  
+- 🧒 Built my first website at **7 years old**  
+- 🏗️ Created a **Linux distribution from scratch**  
+- 🐍 Wrote a **Python-based OS** (SDK coming soon)  
+- 🔓 Hacked a **digital photo frame** to run custom ELF code via UART  
+- 🏦 Built a **banking system simulation** (C++ server, Python client, ESP32 + RC522 RFID)  
+- 🔬 Reverse engineered multiple embedded devices  
+- 🛡️ Competed in the **CyberCup cybersecurity tournament**  
+- 🔌 Wrote low-level hardware drivers for fun  
 
 ---
 
@@ -84,6 +83,5 @@ I also love **kernel development**, **bare-metal**, **microcontrollers**, and **
 
 ---
 
-## 📬 Contact / Follow
+## 📬 Contact
 More coming soon…
-
