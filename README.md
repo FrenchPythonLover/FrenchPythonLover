@@ -24,7 +24,7 @@ and I enjoy **kernel dev**, **bare-metal**, **microcontrollers**, and **firmware
 
 ---
 
-## 🔧 Hardware I Own (with room for achievements)
+## 🔧 Hardware I Own 
 
 | Device | Specs / Notes | Biggest Thing I Built or Did On It |
 |-------|----------------|-------------------------------------|
