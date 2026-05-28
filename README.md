@@ -64,7 +64,7 @@ I code in:
 - Reverse engineering toolchains
 
 ### 🎮 Gaming
-- GTAV (LSPDFR, 30+ mods), ETS2, Assetto Corsa, Minecraft, COD series (Finished all MW, BO1,2,3 and Ghosts)
+- GTAV (LSPDFR, 30+ mods), ETS2, Assetto Corsa, Minecraft, COD series
 - PS3 (HEN 4.91) • PS5 • Switch 1 (Hardware Rev V2)
 Sim gear: Thrustmaster T150 + Fanatec pedals
 ---
@@ -81,8 +81,8 @@ Sim gear: Thrustmaster T150 + Fanatec pedals
 
 ---
 ## 🧑‍🤝‍🧑 Mates
+- [Tilto66](https://github.com/Tilto66) a horrible pilot in game, loves cybersecurity, co member of the **shadowsec team**
 - [Kelbazz](https://github.com/kelbazz) an incredible web designer and rust lunatic (i don't want rust in the kernel !)
-- [Tilto66](https://github.com/Tilto66) a horrible pilot in game, loves cybersecurity
 - [Apprenti2012](https://github.com/apprenti2012) like his name suggests, he's learning a bit of everything, full of potential (for programming atleast...). Wants to try cybersecurity. 
 
 ---
@@ -104,4 +104,4 @@ Sim gear: Thrustmaster T150 + Fanatec pedals
 ---
 
 ## 📬 Contact
-Coming soon...
+Questions?: ilyes.zit@protonmail.com
