@@ -77,7 +77,8 @@ Sim gear: Thrustmaster T150 + Fanatec pedals
 - Hacked a **digital photo frame** to run custom ELF code via UART  
 - Built a **banking system simulation** (C++ server, Python client, ESP32 + RC522 RFID)  
 - Reverse engineered multiple embedded devices, successfully turned some into Linux-based devices.
-- Competed in the **CyberCup cybersecurity tournament**  
+- Competed in the **CyberCup cybersecurity tournament**
+- Created my own linux distribution from source (userspace & kernel)
 
 ---
 ## 🧑‍🤝‍🧑 Mates
@@ -87,6 +88,7 @@ Sim gear: Thrustmaster T150 + Fanatec pedals
 
 ---
 ## 👷‍♂️ Working on
+- My linux [distro](https://github.com/FrenchPythonLover/IZOS-linux) !
 - Hacking a BeeWii smart temperature sensor
 - Recreating a part of my middle school in Godot
 - Creating a custom app for my blackberry
